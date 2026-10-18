@@ -1,0 +1,5 @@
+.claude/
+skills/
+skills-lock.json
+*.pkl
+*.sav
